@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+           <RelativeLayout
+                android:id="@+id/linearLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="200dp" >
+
+         
+                <Button
+                    android:id="@+id/write_tag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/write_to_tag" />
+
+                <Button
+                    android:id="@+id/path"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/testImageButton"
+                    android:text="From my phone" />
+
+                <Button
+                    android:id="@+id/contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/path"
+                    android:text="Add to Contact" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/path" />
+
+                <Button
+                    android:id="@+id/testImageButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/write_tag"
+                    android:text="Test Image" />
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/path" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/path"
+                    android:layout_alignBottom="@+id/path"
+                    android:layout_marginRight="7dp"
+                    android:layout_toLeftOf="@+id/textView"
+                    android:text="Path" />
+
+                <Button
+                    android:id="@+id/send"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:text="Send Data" />
+            </RelativeLayout>
+			<RelativeLayout
+			    android:id="@+id/RLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="290dp">
+                
+
+            <EditText
+                android:id="@+id/note"
+                android:layout_width="250dp"
+                android:layout_height="100dp"
+                android:ems="10"
+                android:gravity="top"
+                android:text="@string/default_note_text" >               
+            </EditText>
+
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="190dp"
+                android:layout_height="190dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/earth" />
+
+            </RelativeLayout>
+        	</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
