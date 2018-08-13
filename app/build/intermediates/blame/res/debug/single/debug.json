@@ -1,62 +1,62 @@
 [
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-hdpi_arrowx.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-hdpi/arrowx.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-ldpi_earth1.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-ldpi/earth1.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-mdpi_arrowx.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-mdpi/arrowx.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow2.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-hdpi/arrow2.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-hdpi_earth1.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-hdpi/earth1.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/layout/main.xml"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-mdpi_earth1.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-mdpi/earth1.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-ldpi_arrow2.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-ldpi/arrow2.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-ldpi_arrowx.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-ldpi/arrowx.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-mdpi_arrow2.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-mdpi/arrow2.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-ldpi_earth1.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-ldpi/earth1.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow2.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-hdpi/arrow2.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-hdpi_earth1.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-hdpi/earth1.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-hdpi_arrowx.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-hdpi/arrowx.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-mdpi_arrowx.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-mdpi/arrowx.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-mdpi_earth.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-mdpi/earth.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-ldpi_earth.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-ldpi/earth.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-hdpi_earth.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-hdpi/earth.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-hdpi_earth.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-hdpi/earth.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-mdpi_earth.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-mdpi/earth.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-mdpi_arrow2.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-mdpi/arrow2.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-mdpi/icon.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-ldpi_earth.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-ldpi/earth.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-ldpi_arrowx.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-ldpi/arrowx.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/res/merged/debug/drawable-mdpi_earth1.png.flat",
-        "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/drawable-mdpi/earth1.png"
+        "merged": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/res/merged/debug/drawable-ldpi_arrow2.png.flat",
+        "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/drawable-ldpi/arrow2.png"
     }
 ]

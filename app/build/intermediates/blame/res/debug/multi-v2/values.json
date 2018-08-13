@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/sam/Desktop/StickyNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/res/values/strings.xml",
+                    "source": "/Users/sam/Desktop/StickyNotes/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "3,5,2,6,4",
                         "startColumns": "4,4,4,4,4",

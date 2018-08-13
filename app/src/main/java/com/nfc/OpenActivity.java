@@ -62,7 +62,7 @@ public class OpenActivity extends Application {
 		try {
 			mPrefs = sharedPreferences;
 		} catch (Exception e) {
-			Log.v("Tag", "get unsuccessful");
+			Log.v("Tag", "unsuccessful get");
 		}
 
 		if (mPrefs == null) {

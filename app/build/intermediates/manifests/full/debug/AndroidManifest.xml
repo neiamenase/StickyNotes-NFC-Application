@@ -25,8 +25,7 @@
         android:name="com.nfc.OpenActivity"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="Nfc"
-        android:testOnly="true" >
+        android:label="Nfc" >
         <activity
             android:name="com.nfc.StickyNotesActivity"
             android:configChanges="orientation"

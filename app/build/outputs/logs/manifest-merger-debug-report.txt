@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:1-59:12
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:3:5-22
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:3:5-22
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
-INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:5-44
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:5-44
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:7:15-41
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.NFC
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:9:5-10:23
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:9:5-10:23
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:9:22-59
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:9:22-59
 uses-permission#android.permission.CAMERA
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:11:5-65
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:11:22-62
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:11:22-62
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:12:5-72
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:12:5-72
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:12:22-69
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:12:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:13:5-73
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:13:5-73
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:13:22-70
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:13:22-70
 uses-feature#android.hardware.camera
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:15:5-60
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:15:5-60
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:15:19-57
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:15:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:16:5-70
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:16:5-70
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:16:19-67
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:16:19-67
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:19:5-79
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:19:22-76
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:19:22-76
 application
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:22:5-57:19
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:22:5-57:19
 	android:label
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:25:9-28
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:25:9-28
 	android:icon
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:24:9-38
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:24:9-38
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:26:9-37
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:26:9-37
 activity#com.nfc.StickyNotesActivity
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:30:9-56:20
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:30:9-56:20
 	android:label
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:33:13-32
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:33:13-32
 	android:configChanges
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:32:13-48
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:32:13-48
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:31:13-55
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:31:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:35:13-39:29
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:36:17-69
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:36:25-66
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:38:17-77
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:38:27-74
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:38:27-74
 intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:42:13-48:29
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:42:13-48:29
 action#android.nfc.action.NDEF_DISCOVERED
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:43:17-77
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:43:25-74
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:43:25-74
 category#android.intent.category.DEFAULT
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:45:17-76
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:45:17-76
 	android:name
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:45:27-73
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:45:27-73
 data
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:47:17-55
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:47:17-55
 	android:mimeType
-		ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:47:23-52
+		ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:47:23-52
 intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
-ADDED from /Users/sam/Desktop/StickyNotes-AndroidStudioVersion/app/src/main/AndroidManifest.xml:49:13-55:29
+ADDED from /Users/sam/Desktop/StickyNotes/app/src/main/AndroidManifest.xml:49:13-55:29
