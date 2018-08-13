@@ -11,7 +11,7 @@
 
         <LinearLayout
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical" >
 
            <RelativeLayout
@@ -61,15 +61,13 @@
                     android:layout_alignParentRight="true"
                     android:layout_alignTop="@+id/path" />
 
-                <TextView
-                    android:id="@+id/textView2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignBaseline="@+id/path"
-                    android:layout_alignBottom="@+id/path"
-                    android:layout_marginRight="7dp"
-                    android:layout_toLeftOf="@+id/textView"
-                    android:text="Path" />
+               <TextView
+                   android:id="@+id/textView2"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_alignTop="@+id/path"
+                   android:layout_centerHorizontal="true"
+                   android:text="Path" />
 
                 <Button
                     android:id="@+id/send"
@@ -83,16 +81,15 @@
 			    android:id="@+id/RLayout1"
                 android:layout_width="match_parent"
                 android:layout_height="290dp">
-                
 
-            <EditText
-                android:id="@+id/note"
-                android:layout_width="250dp"
-                android:layout_height="100dp"
-                android:ems="10"
-                android:gravity="top"
-                android:text="@string/default_note_text" >               
-            </EditText>
+
+                <EditText
+                    android:id="@+id/note"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:ems="10"
+                    android:gravity="top"
+                    android:text="@string/default_note_text"/>
 
 
             <ImageView

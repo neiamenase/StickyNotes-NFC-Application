@@ -20,12 +20,14 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
 
     <application
         android:name="com.nfc.OpenActivity"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="Nfc" >
+        android:label="Nfc"
+        android:testOnly="true" >
         <activity
             android:name="com.nfc.StickyNotesActivity"
             android:configChanges="orientation"

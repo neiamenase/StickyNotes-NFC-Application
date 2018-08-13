@@ -20,7 +20,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Arrays;
 
 import com.nfc.Object.ContactData;
 import com.nfc.staticClass.CardManager;
@@ -48,9 +47,7 @@ import android.nfc.NfcAdapter;
 import android.nfc.Tag;
 import android.nfc.tech.NfcF;
 import android.os.Bundle;
-import android.os.Handler;
 import android.os.Parcelable;
-import android.preference.PreferenceManager;
 import android.provider.ContactsContract;
 import android.provider.ContactsContract.CommonDataKinds.Email;
 import android.provider.ContactsContract.CommonDataKinds.Phone;
@@ -62,7 +59,6 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.View.OnLongClickListener;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -81,7 +77,7 @@ public class StickyNotesActivity extends Activity implements
 	NfcAdapter mNfcAdapter;
 	EditText mNote;
 	ImageView myImage;
-	TextView testview;
+	TextView textView;
 
 	// global variables
 	Bitmap bMap;
@@ -108,7 +104,7 @@ public class StickyNotesActivity extends Activity implements
 		myImage = (ImageView) findViewById(R.id.imageView1);
 		myImage.setOnLongClickListener(this);
 
-		testview = (TextView) findViewById(R.id.textView);
+		textView = (TextView) findViewById(R.id.textView);
 
 		findViewById(R.id.contact).setOnClickListener(new OnClickListener() {
 
@@ -242,8 +238,8 @@ public class StickyNotesActivity extends Activity implements
 
 			new AlertDialog.Builder(this)
 					.setIcon(android.R.drawable.ic_dialog_alert)
-					.setTitle("Hello World!")
-					.setMessage("show once only message")
+					.setTitle("Brief Introduction")
+					.setMessage("You may read a IC card in any second.\nTo send data though NFC, please press Send Data and choose which type to be sent")
 					.setPositiveButton("OK",
 							new DialogInterface.OnClickListener() {
 								public void onClick(DialogInterface dialog,
@@ -300,8 +296,7 @@ public class StickyNotesActivity extends Activity implements
 								@Override
 								public void onClick(DialogInterface arg0,
 										int arg1) {
-									Log.v("bytearray", ""+ msg.getRecords()[0]
-															.getPayload());
+									Log.v("bytearray", ""+ msg.getRecords()[0].getPayload());
 
 									byte zero = msg.getRecords()[0]
 											.getPayload()[0];
@@ -409,13 +404,13 @@ public class StickyNotesActivity extends Activity implements
 		InputStream stream = null;
 
 		if (capture) { // cap?
-			Log.v("tag", "capture detetced" + bMap);
+			Log.v("tag", "capture detected" + bMap);
 		} else {
 
 			if (selectedImage == null) {
 				bMap = BitmapFactory.decodeResource(getResources(),
 						R.drawable.earth);
-				testview.setText("");
+				textView.setText("");
 			} else {
 
 				try {
@@ -474,7 +469,7 @@ public class StickyNotesActivity extends Activity implements
 				String filePath = cursor.getString(columnIndex);
 				cursor.close();
 				String name = filePath;
-				testview.setText(name);
+				textView.setText(name);
 				myImage.setImageURI(selectedImage);
 				capture = false;
 			}
